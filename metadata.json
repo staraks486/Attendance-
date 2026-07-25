@@ -1,0 +1,10 @@
+{
+  "name": "GeoClock Attendance",
+  "description": "Smart Indian enterprise attendance system featuring GPS geolocation clock-in/out across major Indian IT hubs, geofencing validation, IST shift controls, WhatsApp notifications, and INR payroll report analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
